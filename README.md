@@ -15,9 +15,9 @@ Built a Product list cart project using Reactjs.
 
 ### Screenshot
 
-![](../product-list-cart-project/public/assets/images/ss1.png)
-![](../product-list-cart-project/public/assets/images/ss2.png)
-![](../product-list-cart-project/public/assets/images/ss3.png)
+![](/assets/images/ss1.png)
+![](/assets/images/ss2.png)
+![](/assets/images/ss3.png)
 
 ### Links
 
