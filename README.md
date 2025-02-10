@@ -21,8 +21,7 @@ Built a Product list cart project using Reactjs.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Checkout](https://github.com/Batman-0001/product-list-cart-project)
 
 ### Built with
 
