@@ -103,7 +103,6 @@
 
 .close-button {
   background-color: var(--Red);
-  cursor: pointer;
   text-align: center;
   margin-top: 30px;
   margin-bottom: 5px;
@@ -112,4 +111,9 @@
   background-color: var(--Red);
   font-size: 1.2rem;
   color: var(--Rose-50);
+}
+
+.close-button:hover {
+  cursor: pointer;
+  background-color: hsl(14, 84%, 34%);
 }
